@@ -27,7 +27,9 @@
 ![Screenshot 2024-10-19 041313](https://github.com/user-attachments/assets/24bed99f-4e32-45b2-9aae-b235f19c63cd)
 
 ### 2.Pengujian	Interoperabilitas :	Buat	skrip	yang	mengambil	data	dari	API	JSON	dan	mengubahnya	menjadi	XML.
-<img width="287" alt="image" src="https://github.com/user-attachments/assets/4b139cb7-8ef0-4608-98e8-400f02130548">
+![Screenshot 2024-10-19 043848](https://github.com/user-attachments/assets/76cca033-e6ab-446e-b943-522f54049cac)
+
 
 #### hasil
-<img width="920" alt="image" src="https://github.com/user-attachments/assets/24134fb3-2009-4a6a-8911-6a64bccd64df">
+![Screenshot 2024-10-19 043954](https://github.com/user-attachments/assets/45af7e83-2b26-4220-81f9-247e14fcc362)
+
