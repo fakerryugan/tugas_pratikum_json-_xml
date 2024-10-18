@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<komik>
+    <komik>
+        <id>1</id>
+        <nama>Kimi no Kata</nama>
+        <chapter>35</chapter>
+        <genre>
+            <item>action</item>
+            <item>romance</item>
+        </genre>
+    </komik>
+    <komik>
+        <id>2</id>
+        <nama>Boku no Hero Academia</nama>
+        <chapter>35</chapter>
+        <genre>
+            <item>action</item>
+            <item>adventure</item>
+        </genre>
+    </komik>
+    <komik>
+        <id>3</id>
+        <nama>Kono Sekai ga Tensei Shita Nara, Shiranai Nara</nama>
+        <chapter>25</chapter>
+        <genre>
+            <item>adventure</item>
+            <item>fantasy</item>
+        </genre>
+    </komik>
+</komik>
